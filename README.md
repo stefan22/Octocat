@@ -1,3 +1,3 @@
 ***
-> # +  __Octocat__  _challenge_
+>  + #   __Octocat__  _challenge_
 -------
