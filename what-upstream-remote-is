@@ -1,0 +1,4 @@
+upstream remote
+
+  Whenever you make changes locally, you usually want to send them 'upstream' into the repository.
+
