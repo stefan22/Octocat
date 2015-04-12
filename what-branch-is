@@ -1,5 +1,7 @@
-branch
+## branch
 
-  A branch in Git is simply a lightweight movable pointer to one of these commits. 
-  The default branch name in Git is master. As you initially make commits, you're given a master 
-  branch that points to the last commit you made. Every time you commit, it moves forward automatically.
+> A branch is a particular version of your project at a particular point in time.
+  Default branch in Git is master and points to the last commit you made. Everytime you commit, it moves
+  forward automatically.
+  
+  
