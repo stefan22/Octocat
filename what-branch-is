@@ -1,7 +1,2 @@
-branch
 
-  A branch is a particular version of your project at a particular point in time.
-  Default branch in Git is master and points to the last commit you made. Everytime you commit, it moves
-  forward automatically.
-  
   
