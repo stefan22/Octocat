@@ -1,4 +1,11 @@
 upstream remote
 
-  Whenever you make changes locally, you usually want to send them 'upstream' into the repository.
+  To pull in changes from a main repo, you add a remote, "upstream" in your local repo pointing to this
+  original and pull from it.
+  So origin is a clone of your fork repo, from which you push and pull. Whenever you make changes locally, 
+  you then send them 'upstream' into the repository.
+  
+  
+  
+  
 
